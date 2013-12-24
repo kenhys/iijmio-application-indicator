@@ -16,3 +16,17 @@
 *.exe
 *.out
 *.app
+
+# Autotools
+aclocal.m4
+libtool
+configure
+stamp-h1
+.deps
+config.*
+config/*
+autom4te.*
+m4/*
+Makefile
+Makefile.in
+
