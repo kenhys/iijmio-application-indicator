@@ -3,6 +3,8 @@ IIJmio application indicator
 
 This software is aimed to show current statistics of IIJmio coupon on unity system tray.
 
+Now under development.
+
 Requirement
 -----------
 
@@ -26,4 +28,3 @@ TODO
 ----
 
 * Add missing document
-
